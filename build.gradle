@@ -2,7 +2,7 @@ apply plugin: 'java'
 apply plugin: 'application'
 
 version = '1.0.SNAPSHOT'
-mainClassName = 'com.tony.Main'
+mainClassName = 'com.joetony.Main'
 
 task wrapper(type: Wrapper){
   gradleVersion = '2.14.1'
